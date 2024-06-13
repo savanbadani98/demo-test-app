@@ -1,0 +1,38 @@
+{
+  // Home Screen
+  "task": "Task",
+  "interview": "InterView",
+  "todolist": "To-Do List",
+  "Enter_Text": "Enter task name",
+  "Add": "Add Task",
+  "clear": "Clear",
+  "no_data_found": "No data found",
+  "add_task_error": "Please enter task name",
+  "delete_data": "Delete Task",
+  "delete_subTitle": "Are you sure want to delete task?",
+  "no": "No",
+  "yes": "Yes",
+  "update_title": "Edit Task Details",
+  "cancel": "Cancel",
+  "update": "Update",
+  "data_add_success": "Data added successfully",
+  "data_exist": "Data alredy exist..!",
+
+  // Posts Screen
+  "posts": "Posts List",
+  "title": "Title",
+  "body": "Body",
+
+  // Edit Task Screen
+  "task_complete": "Task Complete",
+  "Please_Change_Something": "No changes has been made!",
+  "data_update": "Data updated successfully",
+
+  // Logical Screen
+  "find_multi_char":"Find Multi Char",
+  "find_multi":"Find Multi Character",
+  "enter_string":"Enter single string",
+  "enter_text_error": "Please enter string",
+  "remove_duplicate_successs":"Remove duplicate character from entered string",
+  "non_repeated_character":"non-repeated character"
+}
